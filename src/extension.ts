@@ -28,14 +28,13 @@ export function activate(context: vscode.ExtensionContext) {
 
       const clipboardContents = await vscode.env.clipboard.readText();
       const replacedContents = clipboardContents.replace(
-        /class=/g,
-        "className=",
+        /(\s)class=('|")/g,
+        "$1className=$2"
       );
 
       await vscode.env.clipboard.writeText(replacedContents);
-
       return paste();
-    },
+    }
   );
 
   context.subscriptions.push(disposable);
