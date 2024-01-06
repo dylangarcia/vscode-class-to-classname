@@ -2,7 +2,7 @@
   "name": "class-to-classname",
   "displayName": "class-to-classname",
   "description": "Replace class with className on paste in React files",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publisher": "dylangarcia",
   "engines": {
     "vscode": "^1.85.0"
