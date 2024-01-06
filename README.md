@@ -4,8 +4,6 @@ This extension will replace "class=" with "className=" when pasting in to React 
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
-
 ### 1.0.0
 
-Initial release of class-to-classnameY
+Initial release of class-to-classname
