@@ -16,3 +16,5 @@ You can install this extension from the [Visual Studio Marketplace](https://mark
 ### 1.0.0
 
 Initial release of class-to-classname
+
+Made with Inspect.
