@@ -17,4 +17,4 @@ You can install this extension from the [Visual Studio Marketplace](https://mark
 
 Initial release of class-to-classname
 
-Made with Inspect.
+Made with the real Inspect.
